@@ -1,0 +1,16 @@
+jike_stm32\lv_font.o: ..\lvgl\src\font\lv_font.c
+jike_stm32\lv_font.o: ..\lvgl\src\font\lv_font.h
+jike_stm32\lv_font.o: ..\lvgl\src\font\../lv_conf_internal.h
+jike_stm32\lv_font.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+jike_stm32\lv_font.o: ..\lvgl\src\font\../lv_conf_kconfig.h
+jike_stm32\lv_font.o: ../lvgl/examples/porting/../../lv_conf.h
+jike_stm32\lv_font.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+jike_stm32\lv_font.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+jike_stm32\lv_font.o: ..\lvgl\src\font\lv_symbol_def.h
+jike_stm32\lv_font.o: ..\lvgl\src\font\../misc/lv_area.h
+jike_stm32\lv_font.o: ..\lvgl\src\font\../misc/lv_utils.h
+jike_stm32\lv_font.o: ..\lvgl\src\font\../misc/lv_log.h
+jike_stm32\lv_font.o: ..\lvgl\src\font\../misc/lv_types.h
+jike_stm32\lv_font.o: ..\lvgl\src\font\../misc/lv_assert.h
+jike_stm32\lv_font.o: ..\lvgl\src\font\../misc/lv_mem.h
+jike_stm32\lv_font.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h

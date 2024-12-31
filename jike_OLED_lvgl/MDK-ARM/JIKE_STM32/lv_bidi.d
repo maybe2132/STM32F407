@@ -1,0 +1,17 @@
+jike_stm32\lv_bidi.o: ..\lvgl\src\misc\lv_bidi.c
+jike_stm32\lv_bidi.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+jike_stm32\lv_bidi.o: ..\lvgl\src\misc\lv_bidi.h
+jike_stm32\lv_bidi.o: ..\lvgl\src\misc\../lv_conf_internal.h
+jike_stm32\lv_bidi.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+jike_stm32\lv_bidi.o: ..\lvgl\src\misc\../lv_conf_kconfig.h
+jike_stm32\lv_bidi.o: ../lvgl/examples/porting/../../lv_conf.h
+jike_stm32\lv_bidi.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+jike_stm32\lv_bidi.o: ..\lvgl\src\misc\lv_txt.h
+jike_stm32\lv_bidi.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+jike_stm32\lv_bidi.o: ..\lvgl\src\misc\lv_area.h
+jike_stm32\lv_bidi.o: ..\lvgl\src\misc\../font/lv_font.h
+jike_stm32\lv_bidi.o: ..\lvgl\src\misc\../font/lv_symbol_def.h
+jike_stm32\lv_bidi.o: ..\lvgl\src\misc\lv_printf.h
+jike_stm32\lv_bidi.o: ..\lvgl\src\misc\lv_types.h
+jike_stm32\lv_bidi.o: ..\lvgl\src\misc\../misc/lv_mem.h
+jike_stm32\lv_bidi.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h

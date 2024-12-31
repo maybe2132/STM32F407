@@ -1,0 +1,13 @@
+jike_stm32\lv_color.o: ..\lvgl\src\misc\lv_color.c
+jike_stm32\lv_color.o: ..\lvgl\src\misc\lv_color.h
+jike_stm32\lv_color.o: ..\lvgl\src\misc\../lv_conf_internal.h
+jike_stm32\lv_color.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+jike_stm32\lv_color.o: ..\lvgl\src\misc\../lv_conf_kconfig.h
+jike_stm32\lv_color.o: ../lvgl/examples/porting/../../lv_conf.h
+jike_stm32\lv_color.o: ..\lvgl\src\misc\lv_assert.h
+jike_stm32\lv_color.o: ..\lvgl\src\misc\lv_log.h
+jike_stm32\lv_color.o: ..\lvgl\src\misc\lv_types.h
+jike_stm32\lv_color.o: ..\lvgl\src\misc\lv_mem.h
+jike_stm32\lv_color.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+jike_stm32\lv_color.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+jike_stm32\lv_color.o: ..\lvgl\src\misc\lv_math.h
